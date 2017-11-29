@@ -13,6 +13,6 @@ namespace tabuleiro {
         Azul,
         Vermelha,
         Verde,
-        Laranja,
+        Laranja
     }
 }
