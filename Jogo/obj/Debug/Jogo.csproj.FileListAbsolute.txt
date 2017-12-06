@@ -10,3 +10,9 @@ C:\Users\aluno\Downloads\Jogo-20171201T164521Z-001\Jogo\Jogo\obj\Debug\Jogo.pdb
 C:\Users\aluno\Downloads\Jogo-20171201T164521Z-001\Jogo\Jogo\bin\Debug\Jogo.exe
 C:\Users\aluno\Downloads\Jogo-20171201T164521Z-001\Jogo\Jogo\bin\Debug\Jogo.pdb
 C:\Users\aluno\Downloads\Jogo-20171201T164521Z-001\Jogo\Jogo\obj\Debug\Jogo.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\projetoxadrez\Jogo\bin\Debug\Jogo.exe.config
+C:\Users\aluno\Desktop\projetoxadrez\Jogo\obj\Debug\Jogo.exe
+C:\Users\aluno\Desktop\projetoxadrez\Jogo\obj\Debug\Jogo.pdb
+C:\Users\aluno\Desktop\projetoxadrez\Jogo\bin\Debug\Jogo.exe
+C:\Users\aluno\Desktop\projetoxadrez\Jogo\bin\Debug\Jogo.pdb
+C:\Users\aluno\Desktop\projetoxadrez\Jogo\obj\Debug\Jogo.csprojResolveAssemblyReference.cache
